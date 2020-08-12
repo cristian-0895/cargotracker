@@ -230,8 +230,8 @@
     </profiles>
 	<distributionManagement> 
 		<snapshotRepository>
-			<id>maven-snapshots</id>
-			<url>http://52.117.32.56:8081/repository/maven-snapshots/</url>
+			<id>prueba</id>
+			<url>http://52.117.32.56:8081/#browse/browse:prueba</url>
 		</snapshotRepository>
 		<repository>
 			<id>maven-releases</id>
