@@ -231,8 +231,8 @@
 	<distributionManagement> 
 		
 		<snapshotRepository>
-			<id>prueba</id>
-			<url>http://52.117.32.56:8081/repository/prueba/</url>
+			<id>repository-example-cristhiam</id>
+			<url>http://52.117.32.56:8081/repository/repository-example-cristhiam/</url>
 		</snapshotRepository>
 		<repository>
 			<id>maven-releases</id>
